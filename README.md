@@ -36,7 +36,7 @@ A single workflow keeps your streak alive and lets you farm XP. It runs twice da
 - This project won't help with your daily or friend quests, it can only earn XP to move up the league rank;
 - This project won't do real lessons or stories, only practices, so it won't affect your learning path;
 
-## Running as a standalone script
+## Running as a standalone script!
 
 You can run this script outside GitHub if you want to. You need `bash`, `curl` and `jq` installed, and a `DUOLINGO_JWT` env var:
 
